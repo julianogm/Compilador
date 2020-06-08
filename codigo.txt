@@ -1,0 +1,19 @@
+const
+	n = 10;
+	t = 20;
+var
+	y:integer,
+	a,b:real;
+begin
+	var
+		o,p:integer;
+	read(a,b);
+	y := n;
+	for o=1 to p do
+	begin
+		var
+			e:integer;
+			e := n*y;
+	end;
+	write(e);
+end.
